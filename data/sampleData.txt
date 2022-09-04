@@ -1,0 +1,9 @@
+#Patient Identifier Sample Identifier Diagnosis
+#Patient identifier Sample Identifier Diagnosis
+#STRING STRING  STRING
+#1  1 1
+PATIENT_ID  SAMPLE_ID Diagnosis
+1111  M22-001111  NSCLC
+22222 M22-022222  Colon cancer
+1111  M22-001111  NSCLC
+22222 M22-022222  Colon cancer
